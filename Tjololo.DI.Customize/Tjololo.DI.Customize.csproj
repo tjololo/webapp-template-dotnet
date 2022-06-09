@@ -8,6 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Tjololo.DI.Interfaces" Version="0.0.1-preview.1" />
+        <PackageReference Include="Tjololo.DI.Interfaces" Version="0.0.1-preview.1" PrivateAssets="All" />
     </ItemGroup>
 </Project>
